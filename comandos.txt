@@ -1,0 +1,6 @@
+Para pasar todo lo editado en el git a GitHub
+
+git add .
+git commit -m "mensaje"
+git push origin main
+
