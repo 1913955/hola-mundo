@@ -1,5 +1,7 @@
 <?php
 
-echo "hola mundo"
+echo "hola mundo";
+
+$i = 75;
 
 ?>
